@@ -1,4 +1,5 @@
 export default {
+  auto: "auto",
   afar: "aa",
   abkhazian: "ab",
   afrikaans: "af",
