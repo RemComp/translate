@@ -1,4 +1,5 @@
 export default {
+  auto: "auto",
   aar: "aa",
   abk: "ab",
   afr: "af",
